@@ -2,7 +2,7 @@
 
 Aplicação Java que faz consultas de CEP utilizando o webservice da <a href="https://www.republicavirtual.com.br/">República Virtual</a>.
 
-### Screenshots da aplicação:
+### Showcase da aplicação:
 ![Showcase of the application running](https://github.com/mmacedoaraujo/buscadorCep/blob/master/assets/BuscaCep.gif)
 
 ### Como rodar a aplicação:
